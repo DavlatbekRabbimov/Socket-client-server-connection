@@ -1,0 +1,4 @@
+app:
+  server:
+    host: ${SOCKET_SERVER_HOST}
+    port: ${SOCKET_SERVER_PORT}
